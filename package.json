@@ -1,0 +1,11 @@
+{
+  "name": "sx-react-chart-js-2-built",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "types": "lib/index.d.ts",
+  "peerDependencies": {
+    "chartjs-v4": "npm:chart.js@^4.1.1",
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  }
+}
